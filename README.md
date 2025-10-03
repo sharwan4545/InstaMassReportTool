@@ -1,3 +1,4 @@
+ `apt-get update -y`
 To run the Instagram mass reporting script from the terminal, follow these steps:
 
 
