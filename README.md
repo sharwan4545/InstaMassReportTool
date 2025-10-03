@@ -1,6 +1,6 @@
 <h1> Tool is for Educational purposes only
   <br>
-  Resposible for those who are misued </h1>
+  U are the responsible for misuse </h1>
 <br>
 <br>
 
