@@ -13,9 +13,8 @@ Store these credentials securely either in a .env file or within your Python scr
 Install Required Packages:
 
 If the script relies on external libraries like requests, install them using pip:
-bash
- Copy
-pip install requests
+
+  `pip install requests`
 
 
 
@@ -24,7 +23,7 @@ Prepare Your Script:
 
 Ensure your Python script is set up to handle authentication by including credentials (access token, client ID) and a list of usernames.
 
-Replace placeholders in the script with actual credentials and username lists.
+Replace placeholders in the script with  `actual credentials and username lists.`
 
 
 
@@ -33,15 +32,13 @@ Run the Script:
 Open the terminal and navigate to the directory where your Python script is located.
 
 Execute the script using:
-bash
- Copy
-python filename.py
+
+ `python filename.py`
 
 
 If the script imports modules from a specific package (e.g., instagram), use:
-bash
- Copy
-python -m instagram mass_report_instagram_users.py
+
+ `python -m instagram mass_report_instagram_users.py`
 
 
 
