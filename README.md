@@ -7,7 +7,7 @@
 To run the Instagram mass reporting script from the terminal, follow these steps:
 
 
-Set Up Your Environment:
+1 Set Up Your Environment:
 
 Ensure you have an Instagram Developer account to obtain necessary credentials (access token, client ID, etc.).
 
@@ -15,7 +15,7 @@ Store these credentials securely either in a .env file or within your Python scr
 
 
 
-Install Required Packages:
+2 Install Required Packages:
 
 If the script relies on external libraries like requests, install them using pip:
 
@@ -24,7 +24,7 @@ If the script relies on external libraries like requests, install them using pip
 
 
 
-Prepare Your Script:
+3 Prepare Your Script:
 
 Ensure your Python script is set up to handle authentication by including credentials (access token, client ID) and a list of usernames.
 
@@ -32,7 +32,7 @@ Replace placeholders in the script with  `actual credentials and username lists.
 
 
 
-Run the Script:
+4 Run the Script:
 
 Open the terminal and navigate to the directory where your Python script is located.
 
@@ -48,13 +48,13 @@ If the script imports modules from a specific package (e.g., instagram), use:
 
 
 
-Handle Output:
+5 Handle Output:
 
 Ensure logging is configured to write results to both console and log files for better tracking.
 
 
 
-Monitor and Debug:
+6 Monitor and Debug:
 
 Check dependencies, authentication status, rate limits, and system resources during script execution.
 
