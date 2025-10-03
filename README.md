@@ -1,4 +1,4 @@
-///To run the Instagram mass reporting script from the terminal, follow these steps:
+To run the Instagram mass reporting script from the terminal, follow these steps:
 
 
 Set Up Your Environment:
