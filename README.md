@@ -2,7 +2,7 @@
   <br>
   U are the responsible for misuse </h1>
 <br>
-<br>
+
 
 To run the Instagram mass reporting script from the terminal, follow these steps:
 
