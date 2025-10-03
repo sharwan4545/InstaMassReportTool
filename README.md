@@ -1,4 +1,4 @@
- `apt-get update -y`
+ `Tool is for Educational purposes only, Resposible for those who are misued`
 To run the Instagram mass reporting script from the terminal, follow these steps:
 
 
