@@ -1,6 +1,4 @@
-<h1> Tool is for Educational purposes only
-  <br>
-  U are the responsible for misuse </h1>
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 <br>
 
 
