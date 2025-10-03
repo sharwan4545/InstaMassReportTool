@@ -57,5 +57,6 @@ Ensure logging is configured to write results to both console and log files for 
 Check dependencies, authentication status, rate limits, and system resources during script execution.
 
 Log errors and monitor the terminal output for any issues.
-By following these steps, you can successfully run the Instagram mass reporting functionality as intended.
+By following these steps, you can successfully run the Instagram mass reporting functionality as intended. <br>
+
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
