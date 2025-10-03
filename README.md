@@ -1,4 +1,6 @@
-<h1> `Tool is for Educational purposes only, Resposible for those who are misued` </h1>
+<h1> Tool is for Educational purposes only
+  <br>
+  Resposible for those who are misued </h1>
 <br>
 <br>
 
